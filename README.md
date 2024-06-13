@@ -60,5 +60,5 @@
 ## 🌺  LOAN TRUONG
 
 <p align="center">
-     <img src="https://github.com/LOTOTRUONG/LOTOTRUONG/blob/main/royan1.png?raw=true" alt="" width="40%"/>
+     <img src="https://github.com/LOTOTRUONG/LOTOTRUONG/blob/main/royan1.png?raw=true" alt="" width="20%"/>
 </p>
