@@ -53,8 +53,8 @@
 
 ## 📊 Github Stats
  <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="600px" height="300px" src="https://github-readme-stats.vercel.app/api?username=lototruong&show_icons=true&theme=dark&hide_border=true" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Most Language" width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lototruong&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
+<img style="border-radius: 5px; margin-bottom: 5px; padding-right: 16px;" alt="Github Contribution Stats" width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=lototruong&show_icons=true&theme=dark&hide_border=true" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Most Language" width="300px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lototruong&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
 </p>
 
 ## 🌺  LOAN TRUONG
